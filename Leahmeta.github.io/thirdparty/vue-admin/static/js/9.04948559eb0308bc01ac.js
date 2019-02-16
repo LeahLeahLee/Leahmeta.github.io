@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[9],{"jH/d":function(n,t,e){"use strict";e.r(t);var s={},c=e("KHd+"),i=Object(c.a)(s,function(){var n=this.$createElement;return(this._self._c||n)("section",[this._v("\n    简单验证一下匹配失败自动路由到404页\n")])},[],!1,null,null,null);t.default=i.exports}}]);
+//# sourceMappingURL=9.04948559eb0308bc01ac.js.map

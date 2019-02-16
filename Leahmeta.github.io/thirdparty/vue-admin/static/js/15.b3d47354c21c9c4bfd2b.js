@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[15],{cUIN:function(t,e,n){"use strict";n.r(e);var s={props:{label:{type:String,required:!0}}},l=n("KHd+"),i=Object(l.a)(s,function(){var t=this.$createElement,e=this._self._c||t;return e("span",[this._v("\n    "+this._s(this.label)+"\n    "),e("span",{staticStyle:{color:"red"}},[this._v("*")])])},[],!1,null,null,null);e.default=i.exports}}]);
+//# sourceMappingURL=15.b3d47354c21c9c4bfd2b.js.map
