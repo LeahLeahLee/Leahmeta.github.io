@@ -9,6 +9,7 @@ canvas还没学会，就先放着慢慢看
 
 
 JavaScript表单焦点自动切换代码参考
+```
 <script>
 window.onload=function(){
 　　　　　　var form=document.getElementsByTagName('form')[0];
@@ -25,7 +26,7 @@ window.onload=function(){
 　　}
 }
 </script>
-
+```
 
 关于组织默认的表单验证：（之前从未了解过的方面！！！）
 默认行为就是浏览器直接把表单提交
